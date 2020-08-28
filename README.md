@@ -1,0 +1,2 @@
+# nodezolok
+node tanulo gyakorlatok
